@@ -42,6 +42,6 @@ comments_disable: true
   <p> 
     This is my cv. You can download the PDF file below. Currently, I am open to projects, so if you were interested, please let me know.
     </br>
-    <a target="_blank" rel="noreferrer" href="https://github.com/itsnegaar/itsnegaar.github.io/commit/f1271fc4cbbd3eef33afd862018477b2b5010934" class="but opc-2">
+    <a target="_blank" rel="noreferrer" href="https://github.com/itsnegaar/itsnegaar.github.io/blob/main/_posts/cv.pdf" class="but opc-2">
   <i class="fas fa-paperclip"></i> Here is my CV (updated at<!-- --> <!-- -->2022-12<!-- -->)</a>
     
