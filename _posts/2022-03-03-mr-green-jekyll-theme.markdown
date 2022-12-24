@@ -34,7 +34,7 @@ tags: [CV, cv , resume]
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
+published: false
 ---
 
 {%- capture readme_file -%}{%- include_relative _README.md -%}{%- endcapture -%}
