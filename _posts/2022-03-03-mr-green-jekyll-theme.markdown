@@ -1,22 +1,22 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Mr_Green_Jekyll_Theme
-title: Mr. Green Jekyll Theme
+lng_pair: My CV
+title: My CV
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Mr. Green's Workshop
+author: Negar Abolhasani
 # multiple category is not supported
-category: jekyll
+#category: jekyll
 # multiple tag entries are possible
-tags: [jekyll, new feature]
+tags: [CV, cv , resume]
 # thumbnail image for post
-img: ":mock1.jpg"
+#img: ":mock1.jpg"
 # disable comments on this page
 #comments_disable: true
 
 # publish date
-date: 2022-03-03 12:32:10 +0900
+#date: 2022-03-03 12:32:10 +0900
 
 # seo
 # if not specified, date will be used.
